@@ -4,3 +4,5 @@
 
 学习git rebase
 使用merge合并分支
+
+使用cherypick
