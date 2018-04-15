@@ -1,0 +1,4 @@
+#Tue Aug 29 22:52:52 CST 2017
+base.0=/Users/paul/workspace/android_workspace/DiniFly/sample/build/intermediates/transforms/dex/debug/folders/1000/8/commonsdk_9c7980c493d5ac2e1db4e4eac1a75c42fe632009
+renamed.0=classes.dex
+file.0=/Users/paul/workspace/android_workspace/DiniFly/sample/build/intermediates/transforms/dex/debug/folders/1000/8/commonsdk_9c7980c493d5ac2e1db4e4eac1a75c42fe632009/classes.dex

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/paul/workspace/android_workspace/DiniFly/library/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 586,
+                    "endColumn": 47,
+                    "endOffset": 629
+                },
+                "from": {
+                    "file": "/Users/paul/workspace/android_workspace/DiniFly/library/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 586,
+                        "endColumn": 47,
+                        "endOffset": 629
+                    }
+                }
+            }
+        ]
+    }
+]

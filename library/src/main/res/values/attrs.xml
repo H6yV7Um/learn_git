@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DiniFlyAnimationView">
+        <attr name="dinifly_fileName" format="string"/>
+        <attr name="dinifly_autoPlay" format="boolean" />
+        <attr name="dinifly_loop" format="boolean" />
+        <attr name="dinifly_imageAssetsFolder" format="string" />
+        <attr name="dinifly_progress" format="float" />
+        <attr name="dinifly_enableMergePathsForKitKatAndAbove" format="boolean" />
+        <attr name="dinifly_cacheStrategy" format="integer" />
+        <attr name="dinifly_colorFilter" format="color" />
+        <attr name="dinifly_scale" format="float" />
+    </declare-styleable>
+</resources>

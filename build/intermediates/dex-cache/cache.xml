@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/paul/workspace/android_workspace/DiniFly/sample/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c85ccfa0998e1c83480e6415af2e9a2e49ff0a95">
+        <dex dex="/Users/paul/workspace/android_workspace/DiniFly/sample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_22081db09de29dd955b6345be8ba2ee8cec7f5c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/workspace/android_workspace/DiniFly/library/build/intermediates/bundles/default/libs/commonsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3add27b3aa92a0d22bd8124f87e02dac114fd1b4">
+        <dex dex="/Users/paul/workspace/android_workspace/DiniFly/sample/build/intermediates/transforms/dex/debug/folders/1000/8/commonsdk_9c7980c493d5ac2e1db4e4eac1a75c42fe632009/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paul/workspace/android_workspace/DiniFly/sample/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/paul/workspace/android_workspace/DiniFly/sample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0c4fe111592ba4283f76b2035a8813b9fff537a9/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,35 @@
+apply plugin: 'com.android.application'
+
+android {
+  compileSdkVersion 25
+  buildToolsVersion "25.0.2"
+  defaultConfig {
+    applicationId "com.tencent.mobileqq.dinifly.sample"
+    minSdkVersion 15
+    targetSdkVersion 25
+    versionCode 15
+    versionName "2.1.1"
+  }
+  buildTypes {
+    release {
+      minifyEnabled false
+    }
+  }
+  lintOptions {
+    ignore 'InvalidPackage'
+  }
+  compileOptions {
+    sourceCompatibility JavaVersion.VERSION_1_7
+    targetCompatibility JavaVersion.VERSION_1_7
+  }
+}
+
+dependencies {
+  compile project(':library')
+
+  testCompile 'junit:junit:4.12'
+
+}
+repositories {
+  mavenCentral()
+}

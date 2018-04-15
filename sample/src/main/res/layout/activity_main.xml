@@ -1,0 +1,64 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin">
+
+    <com.tencent.mobileqq.dinifly.DiniFlyAnimationView
+        android:id="@+id/animaview"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        app:dinifly_cacheStrategy="0"
+        app:dinifly_fileName="view_aio/view_aio.json" />
+
+    <Button
+        android:id="@+id/anim0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:text="bubble"
+        android:textSize="12dp" />
+
+    <Button
+        android:id="@+id/anim1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:text="weaccept"
+        android:textSize="12dp" />
+
+    <Button
+        android:id="@+id/anim2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:text="countdown"
+        android:textSize="12dp" />
+    <!--<Button
+        android:id="@+id/anim3"
+        android:text="vr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@null"
+         android:textSize="12dp"
+    /> -->
+
+    <Button
+        android:id="@+id/anim4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:text="notifacation"
+        android:textSize="12dp" />
+
+    <Button
+        android:id="@+id/bt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="导入sdcard文件" />
+
+</LinearLayout>

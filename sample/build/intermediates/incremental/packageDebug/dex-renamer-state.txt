@@ -1,0 +1,7 @@
+#Tue Aug 29 22:52:53 CST 2017
+base.0=/Users/paul/workspace/android_workspace/DiniFly/sample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0c4fe111592ba4283f76b2035a8813b9fff537a9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/paul/workspace/android_workspace/DiniFly/sample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_22081db09de29dd955b6345be8ba2ee8cec7f5c9/classes.dex
+base.1=/Users/paul/workspace/android_workspace/DiniFly/sample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_22081db09de29dd955b6345be8ba2ee8cec7f5c9
+file.0=/Users/paul/workspace/android_workspace/DiniFly/sample/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0c4fe111592ba4283f76b2035a8813b9fff537a9/classes.dex

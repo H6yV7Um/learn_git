@@ -1,0 +1,163 @@
+[
+    {
+        "outputFile": "/Users/paul/workspace/android_workspace/DiniFly/sample/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 586,
+                    "endColumn": 57,
+                    "endOffset": 639
+                },
+                "from": {
+                    "file": "/Users/paul/workspace/android_workspace/DiniFly/sample/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 644,
+                    "endColumn": 55,
+                    "endOffset": 695
+                },
+                "from": {
+                    "file": "/Users/paul/workspace/android_workspace/DiniFly/sample/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 700,
+                    "endColumn": 47,
+                    "endOffset": 743
+                },
+                "from": {
+                    "file": "/Users/paul/workspace/android_workspace/DiniFly/library/build/intermediates/bundles/default/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 586,
+                        "endColumn": 47,
+                        "endOffset": 629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 748,
+                    "endColumn": 52,
+                    "endOffset": 796
+                },
+                "from": {
+                    "file": "/Users/paul/workspace/android_workspace/DiniFly/sample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 52,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 801,
+                    "endColumn": 50,
+                    "endOffset": 847
+                },
+                "from": {
+                    "file": "/Users/paul/workspace/android_workspace/DiniFly/sample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 50,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 852,
+                    "endColumn": 52,
+                    "endOffset": 900
+                },
+                "from": {
+                    "file": "/Users/paul/workspace/android_workspace/DiniFly/sample/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 52,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 905,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 1191
+                },
+                "from": {
+                    "file": "/Users/paul/workspace/android_workspace/DiniFly/sample/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1196,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 1351
+                },
+                "from": {
+                    "file": "/Users/paul/workspace/android_workspace/DiniFly/sample/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]
